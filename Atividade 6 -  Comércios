@@ -1,0 +1,17 @@
+ public class Racao{
+        private double massa;
+        private double preco;
+        private date validade;
+        private string marca;
+        private string sabor;
+        private int qntdestoque;
+
+ public Racao (double massa, double preco, date validade, string marca, string sabor, int qntdestoque)
+ this.massa= massa;
+ this.preco= preco;
+ this.validade= validade;
+ this.marca= marca;
+ this.sabor= sabor;
+ this.qntdestoque= qntdestoque;
+
+    }
